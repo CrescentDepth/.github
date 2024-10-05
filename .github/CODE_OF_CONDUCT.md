@@ -29,6 +29,7 @@ The following behaviors are expected and requested of all community members:
 - [ ] 🤬 Refrain from demeaning, discriminatory, or harassing behavior and speech.
 - [ ] ⭐ Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 - [ ] 🧍 Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+- [ ] 😇 Mica should always be allowed 💖🥰
 
 ## 🤬 Unacceptable Behavior
 
@@ -45,6 +46,8 @@ The following behaviors are considered harassment and are unacceptable within ou
 - [ ] 🫣 Deliberate intimidation, stalking or following (online or in person).
 - [ ] 🙊 Advocating for, or encouraging, any of the above behavior.
 - [ ] ⁉️ Sustained disruption of community events, including talks and presentations.
+- [ ] 🪟 Negative comparison of Rebound to Rectify11 can be counted as harrasment.
+- [ ] 🖕 ACRYLIC IS ABSOLUTELY NOT PERMITTED AT ALL AND YOU WILL BE BANNED! 
 
 ## ⚔️ Weapons Policy
 
