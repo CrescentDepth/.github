@@ -1,4 +1,4 @@
-![Rebound Hub](https://github.com/user-attachments/assets/d3a0ac8e-f449-4475-9f51-aae1fdc0492e)
+![Rebound Hub](https://github.com/user-attachments/assets/072d8b21-17b1-4727-b6b1-c78798092860)
 
 <h3 align="center"><em>This is Ivirius.</em> We made apps and tools for you to have the best experience with Windows 11.</h3>
 
