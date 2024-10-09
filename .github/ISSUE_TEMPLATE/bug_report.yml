@@ -1,6 +1,8 @@
 name: Bug Report
 description: Create a bug report to help improve!
 labels: [bug]
+title: Bug
+type: Bug
 body:
   - type: markdown
     attributes:
