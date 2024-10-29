@@ -47,7 +47,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 - [ ] 🙊 Advocating for, or encouraging, any of the above behavior.
 - [ ] ⁉️ Sustained disruption of community events, including talks and presentations.
 - [ ] 🪟 Negative comparison of Rebound to Rectify11 can be counted as harrasment.
-- [ ] 🖕 ACRYLIC IS ABSOLUTELY NOT PERMITTED AT ALL AND YOU WILL BE BANNED! 
+- [ ] 💢 ACRYLIC IS ABSOLUTELY NOT PERMITTED IN ANY OF OUR APPS!
 
 ## ⚔️ Weapons Policy
 
